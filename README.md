@@ -1,4 +1,6 @@
-# shestem-assignment__traffic
+🚦 Traffic Volume Prediction with Machine Learning
+
+Key points-
 Traffic Volume Prediction with Supervised ML
 ✅ Data preprocessing & feature engineering (time, weekdays, weekends, etc.)
 ✅ Exploratory Data Analysis (traffic patterns over hours, days, weeks)
@@ -9,8 +11,6 @@ Traffic Volume Prediction with Supervised ML
 ✅ Sequential model (GRU) to explore deep learning for time-series prediction
 
 ---
-
-🚦 Traffic Volume Prediction with Machine Learning
 
 This project focuses on predicting traffic volume using supervised machine learning techniques. It was completed as a practical exam project and covers the full ML workflow—from data preprocessing to model evaluation and interpretation.
 
