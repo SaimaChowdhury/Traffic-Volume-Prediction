@@ -66,8 +66,3 @@ Time-series feature engineering
 Model comparison and evaluation
 Feature importance and model limitations
 Real-world interpretation of ML predictions
-
-👩‍💻 Author
-
-Saima Chowdhury
-CSE Graduate | ML & AI Enthusiast
